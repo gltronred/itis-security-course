@@ -8,5 +8,7 @@ SHA-0 - Boomerang attack: https://docs.google.com/document/d/1oJJ4mIt77McRGYXQ9b
 ---------
 KRACK: https://docs.google.com/document/d/1Lj2NrEFNXs19z_OUXTwp4OikQgnkUjW4iIfHc8e2w-0/edit
 --------
+POODLE https://docs.google.com/presentation/d/1nAjM6uyql-qOSVZno7cKa3AEzJXbFypQXyQqy9YC5OM/edit?usp=sharing
+--------
 DES: [отчет](https://docs.google.com/document/d/1kml8NTA0UWL8HVXbIcs8ivPMynBcBQmyPC1YUS9qflY/)
 --------
