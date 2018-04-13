@@ -12,3 +12,4 @@ POODLE https://docs.google.com/presentation/d/1nAjM6uyql-qOSVZno7cKa3AEzJXbFypQX
 --------
 DES: [отчет](https://docs.google.com/document/d/1kml8NTA0UWL8HVXbIcs8ivPMynBcBQmyPC1YUS9qflY/)
 --------
+[BlueBorn](https://docs.google.com/document/d/1yN3KZjqlwWCHzLyu5IRKVHnImVEAnFE6_QR7zIXtpH8/edit?usp=sharing)
